@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvri_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="tvri" group-title="Lokal",TVRI
 http://gpc.my.id/vidio/tvri.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1s2Pc7F/antv.png" tvg-id="BathokGpc" tvg-name="ANTV" group-title="Lokal",ANTV
